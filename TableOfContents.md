@@ -8,8 +8,6 @@ permalink: /
 katex: True
 ---
 
-# Front matter
-
 
 # Part 1: Calculus
 
