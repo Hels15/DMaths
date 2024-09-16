@@ -5,25 +5,24 @@
 layout: home
 title: Table of Contents
 permalink: /
-katex: True
 ---
 
 
 # Part 1: Calculus
 
 - [ImplicitExplicit](ImplicitExplicit): Implicit and Explicit functions
-- [Limits](#): Limits
-- [Derivatives](#): Derivatives
-- [IndefiniteIntegrals](#): Indefinite Integrals
-- [DefiniteIntegrals](#): Definite Integrals
-- [HyperbolicFunctions](#): Hyperbolic functions
-- [NumericIntegration](#): Numeric Integration
-- [DifferentialEquations](#): Differential equations
-- [Trigonometry](#): Trigonometry
-- [Infinite series](#): Booleans and decision procedures
-- [SeriesSequences](#): Series and Sequences
-- [ComplexNumbers](#): Complex Numbers
-- [Geometry](#): Geometry
+- [Limits](Limits): Limits
+- [Derivatives](Derivatives): Derivatives
+- [IndefiniteIntegrals](IndefiniteIntegrals): Indefinite Integrals
+- [DefiniteIntegrals](DefiniteIntegrals): Definite Integrals
+- [HyperbolicFunctions](HyperbolicFunctions): Hyperbolic functions
+- [NumericIntegration](NumericIntegration): Numeric Integration
+- [DifferentialEquations](DifferentialEquations): Differential equations
+- [Trigonometry](Trigonometry): Trigonometry
+- [Infinite series](InfiniteSeries): Infinite Series
+- [SeriesSequences](SeriesSequences): Series and Sequences
+- [ComplexNumbers](ComplexNumbers): Complex Numbers
+- [Geometry](Geometry): Geometry
 
 # Part 2: Calculus
 
